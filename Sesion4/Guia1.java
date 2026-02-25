@@ -1,3 +1,4 @@
+package Sesion4;
 import java.util.Scanner;
 
 public class Guia1 {
