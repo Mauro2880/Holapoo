@@ -1,5 +1,5 @@
 public class HolaMundo {
     public static void main(String[] args){
-        System.out.println("Clase 1 POO");
+        System.out.println("Clase 1001 POO");
     }
 }
